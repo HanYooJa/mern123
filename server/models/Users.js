@@ -4,7 +4,7 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  bookname: {
+  age: {
     type: String,
     required: true,
   },
